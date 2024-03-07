@@ -1,0 +1,33 @@
+lista to-do
+
+carlos
+menu /clear
+    agregar item
+    modificar item
+    eliminar item
+
+rolando
+    marcar/desmarcar completado atr mark bool T F
+    ver tareas / ordenadas por fecha
+
+eliana
+agregar clase llamada tarea
+    titulo / str
+    fecha / solo sea dd/mm/aaaa
+    campo de texto 
+
+
+
+
+
+proximamente:
+* agregar decorador de tiempo
+
+Quizas despues:
+* guardar en json
+
+enero
+1 
+2
+3
+4
